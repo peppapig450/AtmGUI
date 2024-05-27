@@ -1,0 +1,12 @@
+Week of April 14:
+1 ) Created a test-login-panel to test out the login and sign up graphics, then trasnfered all of the test projects and the old project to a new directory to combine it all.
+    Currently working on getting the login and signup to work and integrate with sql database.
+2) I had to overcome getting javafx to find the fxml file so that the code could compile, I also had to get maven to find the package and module paths. and i had to get the jar to compile with all the dependencies included
+3) I made the decision to use a sql database to manage the logins for the atm
+
+week 3:
+This week in class, I have worked on my sql database and integrating it with the login/registration form. I also refined parts of the lgoin form to make it better looking and more aesthetically pleasing.
+I also started to work on rewriting some of my old code from my original atm project so it can be integrated with the user interface.
+
+may 19th: This week I worked on finalizing the login part and adding a password security class that can hash and validate password hashes
+that are stored in the sql database. I got the login screen to work and now I am going to work on the next parts.
